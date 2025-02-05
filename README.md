@@ -10,3 +10,4 @@ Key Features
 Technologies Used
 - Front-end: HTML, CSS, JavaScript
 - Code Editor: Visual Studio Code
+![Screenshot (35)](https://github.com/user-attachments/assets/83155fc5-8877-47bb-babd-4c1494e2655e)
